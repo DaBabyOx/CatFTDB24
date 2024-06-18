@@ -7,6 +7,10 @@ Instructions on how to access the notes:
 1. Scroll towards the upper side of the page
 2. Click on th Catetan Database (GitHub Soon).ipynb
 ```
+
+Entity Relationship Diagram of the Database ||sorry, i'm too lazy to recreate it, so i'mma just took a picture of it :P||:
+![image](https://github.com/DaBabyOx/CatFTDB24/assets/109663865/87716d21-5b96-46e7-8d56-965f38859966)
+
 If you have any questions, feel free to chat me on Discord:
 **Ox.**
 
