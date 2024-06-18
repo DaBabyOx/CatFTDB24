@@ -2,6 +2,11 @@
 Hi Everyone,
 This is some of our recap for the upcoming __Final Test__ for **Introduction of Database Systems**, we hope it helps 😁.
 
+Instructions on how to access the notes:
+```
+1. Scroll towards the upper side of the page
+2. Click on th Catetan Database (GitHub Soon).ipynb
+```
 If you have any questions, feel free to chat me on Discord:
 **Ox.**
 
